@@ -8,3 +8,7 @@ This project analyzes survey data collected from 630 data professionals to gain 
 
 
 
+
+
+<img width="629" alt="Full Project Data Professional Survey" src="https://github.com/DeepaliSukhdeve/Data-Professional-Survey-Breakdown/assets/145950963/4eb0114a-defe-4e9d-bd80-0553bbf103e2">
+
